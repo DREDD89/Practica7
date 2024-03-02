@@ -4,6 +4,7 @@
 }
 body{
     background-color: lightsalmon;
+    
 }
 #areaPrincipal{
     background-image: url("../img/fondo.jpg");
@@ -19,7 +20,7 @@ body{
     background: #e88f13;
     height: 240px;
     text-align: center;
-    background-image: url("../img/logo.jpg");
+    background-image: url("../img/LOGO2.jpg");
     background: no-repeat;
     background-size: 180px 180px;
 }
