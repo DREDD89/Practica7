@@ -3,9 +3,9 @@
     padding: 0;
 }
 body{
-    background-color: #7a7a7a;
+    background-color: lightsalmon;
 }
-#areaPrincipal{
+.areaPrincipal{
     background-image: url("../img/fondo.jpg");
     background-repeat: no-repeat;
     width: 100%;
