@@ -70,3 +70,16 @@ li a:hover{
     
 
 }
+.producto h3:hover {
+    color: red; 
+}
+#menuProductos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.producto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
